@@ -1,3 +1,6 @@
+# 个人需要的部分
+MVision/vSLAM/VS_SLAM/ros_object_analytics/
+
 # MVision　Machine Vision 机器视觉
 [AI算法工程师手册 数学基础 统计学习 深度学习 自然语言处理 工具使用](http://www.huaxiaozhuan.com/)
 
